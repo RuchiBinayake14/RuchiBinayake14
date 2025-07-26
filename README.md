@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Ruchi Binayake
 
 🎓 B.Tech Graduate in Computer Science and Engineering from Walchand Institute of Technology, Solapur 
+
 💻 Passionate about Full Stack Development, Automation Testing, and Real-World Tech Solutions  
 🚀 Building robust apps using Java, React, Spring Boot, and modern testing tools
 
@@ -10,7 +11,6 @@
 
 - 💼 **QA Intern @ AAYAAM AI** | Java + Playwright + Manual/Automation Testing
 - 🏆 **Smart India Hackathon Finalist** – Developed a government portal for DPD
-- 💡 Learning: **Spring Boot, Deep Learning, GitHub Actions**
 - 📫 Reach me: **binayakeruchi@gmail.com** | 📱 +91 7385840514
 - 🌐 [Portfolio](https://ruchibinayake14.github.io) | [LinkedIn](https://ruchibinayake14.github.io/portfolio/)
 
@@ -68,17 +68,6 @@ A simple and responsive personal website showcasing my skills and contact detail
 ### 🔹 QA Automation Project @ AAYAAM AI  
 🛠 Java | Playwright | Postman  
 Tested the company's website with automation scripts, cross-browser testing, and defect reporting.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ruchi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuchiBinayake14&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiBinayake14&layout=compact&theme=radical)
-
-</div>
 
 ---
 
