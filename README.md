@@ -11,7 +11,7 @@
 - 💼 **QA Intern @ AAYAAM AI** | Java + Playwright + Manual/Automation Testing
 - 🏆 **Smart India Hackathon Finalist** – Developed a government portal for DPD
 - 📫 Reach me: **binayakeruchi@gmail.com** | 📱 +91 7385840514
-- 🌐 [Portfolio](https://ruchibinayake14.github.io) | [LinkedIn](https://ruchibinayake14.github.io/portfolio/)
+- 🌐 [Portfolio](https://ruchibinayake14.github.io/portfolio/) | [LinkedIn](http://www.linkedin.com/in/binayakeruchi)
 
 ---
 
