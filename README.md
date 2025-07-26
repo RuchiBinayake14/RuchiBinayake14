@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Ruchi Binayake
 
-🎓 B.Tech Graduate in Computer Science and Engineering from Walchand Institute of Technology, Solapur 
-
+🎓 B.Tech Graduate in Computer Science and Engineering from Walchand Institute of Technology, Solapur  
 💻 Passionate about Full Stack Development, Automation Testing, and Real-World Tech Solutions  
 🚀 Building robust apps using Java, React, Spring Boot, and modern testing tools
 
