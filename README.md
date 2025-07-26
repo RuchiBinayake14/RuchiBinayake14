@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ruchi Binayake
 
-🎓 Final-year Computer Science Engineering student at Walchand Institute of Technology with a strong foundation in full-stack development, automation testing, and modern web technologies. Passionate about building real-world software solutions and contributing to impactful projects.
+🎓 B.Tech Graduate in Computer Science and Engineering from Walchand Institute of Technology, Solapur with a strong foundation in full-stack development, automation testing, and modern web technologies. Passionate about building real-world software solutions and contributing to impactful projects.
 
 ---
 
@@ -11,7 +11,7 @@
 - 💡 Currently learning: **Spring Boot, Deep Learning, GitHub Actions**
 - 👩‍💻 Focused on: **Full Stack Development**, **Test Automation**, **Open Source**
 - 📫 Reach me: **binayakeruchi@gmail.com** | 📱 +91 7385840514
-- 🔗 [LinkedIn](https://www.linkedin.com/in/binayakeruchi) | 🌐 [Portfolio](https://ruchibinayake14.github.io)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/binayakeruchi) | 🌐 [Portfolio](https://ruchibinayake14.github.io/portfolio/)
 
 ---
 
@@ -80,7 +80,7 @@ Designed and implemented automation scripts for regression testing, cross-browse
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/binayakeruchi)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/RuchiBinayake14)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Site-orange?logo=firefox)](https://ruchibinayake14.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Site-orange?logo=firefox)](https://ruchibinayake14.github.io/portfolio/)
 
 ---
 
