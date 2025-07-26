@@ -45,7 +45,7 @@
 ### 🔹 Smart India Hackathon – DPD Government Website  
 🛠 React.js | Node.js | MongoDB  
 A modern and user-friendly government portal for accessing publications, announcements, and documents.  
-🔗 [GitHub](https://github.com/RuchiBinayake14)
+🔗 [GitHub](https://github.com/RuchiBinayake14/springboot-todo-app)
 
 ---
 
