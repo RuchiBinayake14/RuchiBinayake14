@@ -1,79 +1,101 @@
 # 👋 Hi, I'm Ruchi Binayake
 
-🎓 B.Tech Graduate in Computer Science and Engineering from Walchand Institute of Technology, Solapur with a strong foundation in full-stack development, automation testing, and modern web technologies. Passionate about building real-world software solutions and contributing to impactful projects.
+🎓 B.Tech Graduate in Computer Science and Engineering from Walchand Institute of Technology, Solapur 
+💻 Passionate about Full Stack Development, Automation Testing, and Real-World Tech Solutions  
+🚀 Building robust apps using Java, React, Spring Boot, and modern testing tools
 
 ---
 
-## 🔎 About Me
+## 🔍 About Me
 
 - 💼 **QA Intern @ AAYAAM AI** | Java + Playwright + Manual/Automation Testing
-- 🏆 **Smart India Hackathon 2023 Finalist** – Government Web Portal Project
-- 👩‍💻 Focused on: **Full Stack Development**, **Test Automation**, **Open Source**
+- 🏆 **Smart India Hackathon Finalist** – Developed a government portal for DPD
+- 💡 Learning: **Spring Boot, Deep Learning, GitHub Actions**
 - 📫 Reach me: **binayakeruchi@gmail.com** | 📱 +91 7385840514
-- 🔗 [LinkedIn](https://www.linkedin.com/in/binayakeruchi) | 🌐 [Portfolio](https://ruchibinayake14.github.io/portfolio/)
+- 🌐 [Portfolio](https://ruchibinayake14.github.io) | [LinkedIn](https://ruchibinayake14.github.io/portfolio/)
 
 ---
 
-## 🛠️ Languages & Tools
+## 🧠 Skills & Technologies
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-282C34?style=flat&logo=playwright&logoColor=green)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+### 💻 Programming Languages
+- Java, C
+
+### ⚙️ Technologies & Frameworks
+- Spring Boot, React.js
+
+### 🛢️ Databases
+- MySQL
+
+### 🌐 Web Technologies
+- HTML5, CSS3, RESTful APIs
+
+### 🧪 Testing Tools
+- Playwright (Microsoft), JMeter, Postman, Swagger, Thunder Client (VS Code extension)
+
+### 🧰 Developer Tools & Version Control
+- Git, GitHub, Visual Studio Code
+
+### 📘 Relevant Coursework
+- Data Structures, Object-Oriented Programming (OOPs), Database Management Systems (DBMS), Computer Networks (CN)
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 Smart India Hackathon - Publications Division Website  
+### 🔹 Smart India Hackathon – DPD Government Website  
 🛠 React.js | Node.js | MongoDB  
-🔗 [GitHub](https://github.com/RuchiBinayake14)  
-A modern, SEO-optimized government web portal with book listings, announcements, and user-friendly UI.
+A modern and user-friendly government portal for accessing publications, announcements, and documents.  
+🔗 [GitHub](https://github.com/RuchiBinayake14)
 
 ---
 
 ### 🔹 Smart Todo App  
 🛠 React.js | Spring Boot | MySQL | Firebase  
-📌 EmailJS, Auth, Dark/Light Mode  
-🔗 [GitHub](https://github.com/RuchiBinayake14)  
-A full-featured todo manager with daily email reminders, secure auth, and REST API integration.
+📌 EmailJS integration, Firebase Auth, Dark/Light Mode  
+A full-stack task manager app with daily reminders, authentication, and clean UI.  
+🔗 [GitHub](https://github.com/RuchiBinayake14)
 
 ---
 
 ### 🔹 Portfolio Website  
 🛠 HTML | CSS | JavaScript  
-🔗 [Live Site](https://ruchibinayake14.github.io) | [GitHub](https://github.com/RuchiBinayake14/ruchibinayake14.github.io)  
-Personal portfolio website showcasing skills, contact, and resume for professional presence.
+A simple and responsive personal website showcasing my skills and contact details.  
+🔗 [Live Site](https://ruchibinayake14.github.io)
 
 ---
 
-### 🔹 Automation Testing Suite – AAYAAM AI  
-🛠 Java | Playwright  
-Designed and implemented automation scripts for regression testing, cross-browser validation, and bug detection on company website.
+### 🔹 QA Automation Project @ AAYAAM AI  
+🛠 Java | Playwright | Postman  
+Tested the company's website with automation scripts, cross-browser testing, and defect reporting.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Ruchi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuchiBinayake14&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiBinayake14&layout=compact&theme=radical)
+
+</div>
 
 ---
 
 ## 🏅 Achievements
 
-- 🥇 **Smart India Hackathon Finalist** – Developed DPD Web Portal  
-- 📜 **Java Internship** – Infosys Springboard  
-- 🧪 **QA Internship** – AAYAAM AI (Manual + Automation)
+- 🏆 **Smart India Hackathon Finalist** (2023)
+- 📜 **Java Internship** – Infosys Springboard
+- 🧪 **QA Internship** – AAYAAM AI
 
 ---
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/binayakeruchi)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/RuchiBinayake14)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/binayakeruchi)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/RuchiBinayake14)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Site-orange?logo=firefox)](https://ruchibinayake14.github.io/portfolio/)
 
 ---
 
-*“Consistency and curiosity are the keys to becoming a better developer.”* 🚀
+_“Consistency and curiosity are the keys to becoming a better developer.”_ 🚀
