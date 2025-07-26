@@ -45,7 +45,7 @@
 ### 🔹 Smart India Hackathon – DPD Government Website  
 🛠 React.js | Node.js | MongoDB  
 A modern and user-friendly government portal for accessing publications, announcements, and documents.  
-🔗 [GitHub](https://github.com/RuchiBinayake14/springboot-todo-app)
+🔗 [GitHub](https://681924b28bd506a298b9789d--quiet-sfogliatella-8a010c.netlify.app/)
 
 ---
 
@@ -53,14 +53,14 @@ A modern and user-friendly government portal for accessing publications, announc
 🛠 React.js | Spring Boot | MySQL | Firebase  
 📌 EmailJS integration, Firebase Auth, Dark/Light Mode  
 A full-stack task manager app with daily reminders, authentication, and clean UI.  
-🔗 [GitHub](https://github.com/RuchiBinayake14)
+🔗 [GitHub](https://github.com/RuchiBinayake14/springboot-todo-app)
 
 ---
 
 ### 🔹 Portfolio Website  
 🛠 HTML | CSS | JavaScript  
 A simple and responsive personal website showcasing my skills and contact details.  
-🔗 [Live Site](https://ruchibinayake14.github.io)
+🔗 [Live Site](https://ruchibinayake14.github.io/portfolio/)
 
 ---
 
