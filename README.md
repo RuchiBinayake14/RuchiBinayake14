@@ -8,7 +8,6 @@
 
 - 💼 **QA Intern @ AAYAAM AI** | Java + Playwright + Manual/Automation Testing
 - 🏆 **Smart India Hackathon 2023 Finalist** – Government Web Portal Project
-- 💡 Currently learning: **Spring Boot, Deep Learning, GitHub Actions**
 - 👩‍💻 Focused on: **Full Stack Development**, **Test Automation**, **Open Source**
 - 📫 Reach me: **binayakeruchi@gmail.com** | 📱 +91 7385840514
 - 🔗 [LinkedIn](https://www.linkedin.com/in/binayakeruchi) | 🌐 [Portfolio](https://ruchibinayake14.github.io/portfolio/)
