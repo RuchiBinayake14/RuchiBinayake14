@@ -59,7 +59,6 @@ Personal portfolio website showcasing skills, contact, and resume for profession
 Designed and implemented automation scripts for regression testing, cross-browser validation, and bug detection on company website.
 
 ---
----
 
 ## 🏅 Achievements
 
