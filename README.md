@@ -59,12 +59,6 @@ Personal portfolio website showcasing skills, contact, and resume for profession
 Designed and implemented automation scripts for regression testing, cross-browser validation, and bug detection on company website.
 
 ---
-
-## 📊 GitHub Stats
-
-![Ruchi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuchiBinayake14&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiBinayake14&layout=compact&theme=radical)
-
 ---
 
 ## 🏅 Achievements
