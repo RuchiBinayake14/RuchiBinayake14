@@ -8,7 +8,7 @@
 
 ## 🔍 About Me
 
-- 💼 **QA Intern @ AAYAAM AI** | Java + Playwright + Manual/Automation Testing
+- 💼 **Full Stack Developer Intern @ AAYAAM AI** | Java + Playwright + Manual/Automation Testing , 3D Website Builder using **Three.js**
 - 🏆 **Smart India Hackathon Finalist** – Developed a government portal for DPD
 - 📫 Reach me: **binayakeruchi@gmail.com** | 📱 +91 7385840514
 - 🌐 [Portfolio](https://ruchibinayake14.github.io/portfolio/) | [LinkedIn](http://www.linkedin.com/in/binayakeruchi)
@@ -74,7 +74,7 @@ Tested the company's website with automation scripts, cross-browser testing, and
 
 - 🏆 **Smart India Hackathon Finalist** (2023)
 - 📜 **Java Internship** – Infosys Springboard
-- 🧪 **QA Internship** – AAYAAM AI
+- 🧪 **Full Stack Developer Internship** – AAYAAM AI
 
 ---
 
